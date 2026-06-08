@@ -8,6 +8,18 @@ By choosing open-source software, you're not just getting a free tool; you're jo
 
 So, let's dive into the world of free and open-source video editing and discover the perfect CapCut alternative for you!
 
+> Building AI apps with Claude Code, Codex, or your favorite API client?
+>
+> Try **[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-text)**, an OpenAI-compatible gateway and cheaper OpenRouter alternative. Use one API key, prepaid credits, and top models while cutting AI model costs by up to 50%.
+
+</br>
+
+[<img width="1490" height="915" alt="Blackmagic AI OpenAI-compatible gateway dashboard" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-image)
+
+</br>
+
+> **[Compare model pricing](https://blackmagic.engineering/models?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-pricing)**
+
 ***
 
 ## 1. [OpenCut](https://github.com/OpenCut-app/OpenCut)
