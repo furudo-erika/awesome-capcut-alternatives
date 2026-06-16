@@ -207,3 +207,6 @@ If you're looking for a video editor that can do it all, and you're not afraid o
 ***
 
 This list provides a comprehensive overview of some of the best free and open-source alternatives to CapCut. Each of these editors has its own unique strengths and weaknesses, so the best one for you will depend on your individual needs and preferences. I encourage you to try out a few of them to see which one you like the best. Happy editing
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
